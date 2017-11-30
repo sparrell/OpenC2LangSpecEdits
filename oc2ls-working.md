@@ -2207,6 +2207,9 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Confo
 
 </div>
 
+# Conformance
+
+
 <p class=MsoBodyText>OpenC2 is a command and control language that converges
 (i.e. common ‘point of understanding’) on a common syntax, and lexicon.  OpenC2
 does not have a dependency on a particular programming language, computing
