@@ -2201,7 +2201,6 @@ command.</p>
 <p class=MsoBodyText>TBSL</p>
 
 # 5. Conformance
-new text
 
 OpenC2 is a command and control language that converges
 (i.e. common point of understanding) on a common syntax, and lexicon.  OpenC2
@@ -2216,48 +2215,6 @@ platform, transport protocol etc. ~~.~~ Conformant implementations of OpenC2:
 * MUST implement JSON serialization of the commands, responses and alerts that are consistent with the syntax defined in this document.
 * TBSL
 
-old text
-
-
-
-<p class=MsoBodyText>OpenC2 is a command and control language that converges
-(i.e. common ‘point of understanding’) on a common syntax, and lexicon.  OpenC2
-does not have a dependency on a particular programming language, computing
-platform, transport protocol etc.. Conformant implementations of OpenC2: </p>
-
-<p class=MsoBodyText style='margin-left:.5in;text-indent:-.25in'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>MUST support OpenC2 commands, responses and alerts as defined in
-this document.</p>
-
-<p class=MsoBodyText style='margin-left:.5in;text-indent:-.25in'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>MUST implement the actions designated as mandatory in this
-document.</p>
-
-<p class=MsoBodyText style='margin-left:.5in;text-indent:-.25in'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>MUST implement the targets designated as mandatory in this
-document.</p>
-
-<p class=MsoBodyText style='margin-left:.5in;text-indent:-.25in'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>MAY implement optional targets defined in this document </p>
-
-<p class=MsoBodyText style='margin-left:.5in;text-indent:-.25in'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>MAY implement actuator specifiers, actuator options, target
-specifiers and/or target options as specified in one or more actuator profiles.
-</p>
-
-<p class=MsoBodyText style='margin-left:.5in;text-indent:-.25in'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>MUST implement JSON serialization of the commands, responses and
-alerts that are consistent with the syntax defined in this document.</p>
-
-<p class=MsoBodyText style='margin-left:.5in;text-indent:-.25in'><span
-style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>TBSL</p>
 
 <p class=MsoBodyText>&nbsp;</p>
 
