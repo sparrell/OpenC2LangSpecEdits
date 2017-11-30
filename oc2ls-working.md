@@ -2206,9 +2206,9 @@ new text
 OpenC2 is a command and control language that converges
 (i.e. common point of understanding) on a common syntax, and lexicon.  OpenC2
 does not have a dependency on a particular programming language, computing
-platform, transport protocol etc.. Conformant implementations of OpenC2:
+platform, transport protocol etc. ~~.~~ Conformant implementations of OpenC2:
 
-* MUST support OpenC2 commands, responses and alerts as defined in this document.
+* MUST support OpenC2 commands, ~~responses and alerts~~ and responses as defined in this document.
 * MUST implement the actions designated as mandatory in this document.
 * MUST implement the targets designated as mandatory in this document.
 * MAY implement optional targets defined in this document 
