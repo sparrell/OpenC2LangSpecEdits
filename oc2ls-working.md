@@ -2212,7 +2212,7 @@ platform, transport protocol etc. ~~.~~ Conformant implementations of OpenC2:
 * MUST implement the targets designated as mandatory in this document.
 * MAY implement optional targets defined in this document 
 * MAY implement actuator specifiers, actuator options, target specifiers and/or target options as specified in one or more actuator profiles.
-* MUST implement JSON serialization of the commands, responses and alerts that are consistent with the syntax defined in this document.
+* MUST implement JSON serialization of the commands, ~~responses and alerts~~ and responses that are consistent with the syntax defined in this document.
 * TBSL
 
 
